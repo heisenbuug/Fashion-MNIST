@@ -36,10 +36,7 @@ Non-trainable params: 0
 _________________________________________________________________
 ```
 
-I trained this model on my GTX 150Ti.
-
-I use TF 2.0 GPU version.
-
-You can add more layers according to your preference. 
-
-You can obtain the data set from the mentioned link, I used the in build dataset in TF(https://www.tensorflow.org/datasets/catalog/fashion_mnist)
+* I trained this model on my GTX 150Ti.
+* I use TF 2.0 GPU version.
+* You can add more layers according to your preference. 
+* I used the in build dataset in TF: https://www.tensorflow.org/datasets/catalog/fashion_mnist
