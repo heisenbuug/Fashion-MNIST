@@ -1,7 +1,7 @@
 # Fashion-MNIST
 Fashion MNIST | Kaggle
 
-** Kaggle Link ** : https://www.kaggle.com/zalando-research/fashionmnist
+**Kaggle Link** : https://www.kaggle.com/zalando-research/fashionmnist
 
 I used CNNs to generate better results.
 
